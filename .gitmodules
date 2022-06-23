@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "concatipede"]
+	path = concatipede
+	url = https://github.com/tardipede/concatipede
+	shallow = true
+	registered = true
